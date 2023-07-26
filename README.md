@@ -14,7 +14,7 @@ I'm learning how to use a variety of libraries and frameworks to maximize the po
 ## 🤔 How to reach me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roshanarun)](https://github.com/roshanarun) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/roshanarun25/)](https://www.instagram.com/roshanarun25/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/roshanarun25/)](https://www.instagram.com/roshanarun25/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arun_roshan)](https://twitter.com/arun_roshan) 
 
 **Languages and Tools:**  
