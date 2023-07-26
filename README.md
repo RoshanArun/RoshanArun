@@ -1,5 +1,12 @@
 ## Hi there, I'm Roshan Arun 👋  
 ----
+<div align="center">
+<img src="https://avatars1.githubusercontent.com/u/41686618?s=460&u=60b3bc83089b6072ef8db58de4d7eb225dcb392d&v=4" width="150px;"/>
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun/)
+[![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/roshan-arun)
+[![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://twitter.com/roshan_arun)
 
 Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a strong advocate of open source, using cutting-edge tools, and learning through tinkering. I specialize in front end development, and am proficient in HTML, CSS, JavaScript, and a variety of frameworks and libraries such as React and Jquery. I'm also developing knowledge in Node, Express, PHP, MongoDB, and related technologies.
 
@@ -31,21 +38,8 @@ Simple Web App is a basic web application created with HTML/CSS/JavaScript. The 
 _____
 ## Certifications
 
-- HTML and CSS : Certified by _Coursera_
-- Full Stack Web Development : Certified by _Udemy_
-- JavaScript : Certified by _Intellipaat_
-- SQL : Certified by _DataCamp_
+- Responsive Web Design : Certified by FreeCodeCamp
+- Java Algorithms and Data Structures : Certified by FreeCodeCamp
 
 ______
 
-
-
-# Roshan Arun
-
-<div align="center">
-<img src="https://avatars1.githubusercontent.com/u/41686618?s=460&u=60b3bc83089b6072ef8db58de4d7eb225dcb392d&v=4" width="150px;"/>
-<br />
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun/)
-[![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/roshan-arun)
-[![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://twitter.com/roshan_arun)
