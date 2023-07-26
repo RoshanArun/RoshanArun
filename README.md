@@ -1,24 +1,30 @@
+# __Brynn Chernoff__
+----
+I'm a highly motivated software engineer, specializing in web development and data analysis.
+
+[![GitHub followers](https://img.shields.io/github/followers/brynnchernoff?style=social)](https://github.com/brynnchernoff)
+[![Twitter Follow](https://img.shields.io/twitter/follow/brynnchernoff?style=social)](https://twitter.com/brynnchernoff)
+
 <p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+<img src="https://raw.githubusercontent.com/brynnchernoff/brynnchernoff/master/profile-pic.jpg" width="200"/>
 </p>
 
-<h3 align="center">Project Title</h3>
 
-<div align="center">
+## 🔭 I’m currently working on
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+I'm currently working on a full-stack project incorporating machine learning algorithms with a React + Node + Express web platform. I'm also experimenting with building mobile applications that involve sensors and IoT devices. 
 
-</div>
+## 🌱 I’m currently learning
 
----
+I'm learning how to use a variety of libraries and frameworks to maximize the potential of data analysis and web development projects, including React, Node.js, Express, Redux, and MongoDB.  
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
+## 👯 I’m looking to collaborate on
+
+I'm looking to collaborate on projects related to web development/data analysis, especially projects related to machine learning.
+
+## 🤔 How to reach me
+
+Reach out to me on Twitter [@brynnchernoff](https://twitter.com/brynnchernoff) or send me an email at [brynnchernoff@gmail.com](mailto:brynnchernoff@gmail.com)
 
 ## 📝 Table of Contents
 
@@ -112,3 +118,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+
