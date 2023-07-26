@@ -1,8 +1,5 @@
 ## Hi there, I'm Roshan Arun 👋  
 ----
-<div align="center">
-<img src="https://avatars1.githubusercontent.com/u/41686618?s=460&u=60b3bc83089b6072ef8db58de4d7eb225dcb392d&v=4" width="150px;"/>
-<br />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun/)
 [![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/roshan-arun)
