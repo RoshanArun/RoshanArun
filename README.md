@@ -32,3 +32,52 @@ I'm learning how to use a variety of libraries and frameworks to maximize the po
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+
+# Roshan Arun
+
+![GitHub](https://img.shields.io/github/followers/RoshanArun?style=social)
+[![GitHub Status](https://img.shields.io/github/last-commit/RoshanArun/RoshanArun?style=flat)]
+
+Heyy everyone, I'm Roshan Arun! I'm a student at Arizona State University studying Computer Science. I'm currently working as an intern for Emto, a program that helps people with web development. I love learning HTML/CSS/JAVASCRIPT and I'm always trying to contribute to open source projects.
+
+______
+## Stats
+![GitHub language count](https://img.shields.io/github/languages/count/RoshanArun/RoshanArun?style=flat-square)
+
+<br>
+
+![GitHub top language](https://img.shields.io/github/languages/top/RoshanArun/RoshanArun?style=flat-square)
+
+<br>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/RoshanArun/RoshanArun?style=flat-square)
+
+<br>
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/RoshanArun/RoshanArun?style=flat-square)
+
+______
+## Projects
+
+### [SimpleWebApp](https://github.com/RoshanArun/SimpleWebApp)
+Simple Web App is a basic web application created with HTML/CSS/JavaScript. The project is part of my understanding of web development basics. 
+
+_____
+## Certifications
+
+- HTML and CSS : Certified by _Coursera_
+- Full Stack Web Development : Certified by _Udemy_
+- JavaScript : Certified by _Intellipaat_
+- SQL : Certified by _DataCamp_
+
+______
+## Contact
+
+<p>
+Want to get in touch? 
+<br><br>
+
+<a href="https://www.linkedin.com/in/roshanarun"><img src="http://img.freepik.com/free-icon/male-user-shadow_318-34042.jpg?size=338c&ext=jpg" width="60"></a>
+<a href="https://github.com/RoshanArun"><img src="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0018/3113/brand.gif?itok=t05rizcY" width="60"></a>
+</p>
