@@ -1,4 +1,4 @@
-#### Hi there, I'm Roshan Arun 👋  
+## Hi there, I'm Roshan Arun 👋  
 ----
 
 Hello there! I'm Roshan Arun, a student at ASU studying computer science. I'm an intern at Emto, a leading software development firm. I have a passion for building beautiful applications and creating quality experiences that people love.
@@ -39,32 +39,10 @@ _____
 - SQL : Certified by _DataCamp_
 
 ______
-## Contact
-
-<p>
-Want to get in touch? 
-<br><br>
-
 <a href="https://www.linkedin.com/in/roshanarun"><img src="http://img.freepik.com/free-icon/male-user-shadow_318-34042.jpg?size=338c&ext=jpg" width="60"></a>
 <a href="https://github.com/RoshanArun"><img src="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0018/3113/brand.gif?itok=t05rizcY" width="60"></a>
 </p>
 
-# GitHub Readme Stats
-## Most Used Languages
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
-<details>
-  <summary>Click here to view my most used programming languages.</summary>
 
-<!--START_SECTION:language_used-->
-  
-![cpp](https://img.shields.io/badge/C++-23.5%-blue?style=flat-square&logo=C%2B%2B)
-![html](https://img.shields.io/badge/HTML-15.8%-red?style=flat-square&logo=HTML5)
-![javascript](https://img.shields.io/badge/JavaScript-12.6%-yellow?style=flat-square&logo=JavaScript)
-![python](https://img.shields.io/badge/Python-8.4%-green?style=flat-square&logo=Python)
-![css](https://img.shields.io/badge/CSS-7.2%-orange?style=flat-square&logo=CSS3)
 
-<!--END_SECTION:language_used-->
-
-</details>
