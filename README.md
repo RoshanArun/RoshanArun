@@ -1,11 +1,7 @@
 ## Hi there, I'm Roshan Arun 👋  
 ----
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun/)
-[![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/roshan-arun)
-[![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://twitter.com/roshan_arun)
-
-Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a strong advocate of open source, using cutting-edge tools, and learning through tinkering. I specialize in front end development, and am proficient in HTML, CSS, JavaScript, and a variety of frameworks and libraries such as React and Jquery. I'm also developing knowledge in Node, Express, PHP, MongoDB, and related technologies.
+Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a strong advocate of open source, using cutting-edge tools, and learning through tinkering. I specialize in front end development, and am proficient in HTML, CSS, JavaScript, and a variety of frameworks and libraries such as React and Jquery.
 
 ## 🔭 I’m currently working on
 
@@ -17,9 +13,8 @@ I'm learning how to use a variety of libraries and frameworks to maximize the po
 
 ## 🤔 How to reach me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roshanarun)](https://github.com/roshanarun) 
-[![LinkedIn Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/roshanarun25/)](https://www.instagram.com/roshanarun25/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arun_roshan)](https://twitter.com/arun_roshan) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun-231a131b5/)
+[![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/roshan-arun) 
 
 **Languages and Tools:**  
 
@@ -29,14 +24,25 @@ I'm learning how to use a variety of libraries and frameworks to maximize the po
 ______
 ## Projects
 
-### [SimpleWebApp](https://github.com/RoshanArun/SimpleWebApp)
-Simple Web App is a basic web application created with HTML/CSS/JavaScript. The project is part of my understanding of web development basics. 
+### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
+Game of Sudoku Developed in C
 
+### [Connect4](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c)
+Game of Connect4 Developed in C
+
+### [Checkers](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers)
+Checkers Developed in Java with a Full GUI
+
+### [CrypNet](https://github.com/RoshanArun/CrypNet-WebApp)
+Front End Web Development Utilizing React/CSS
+
+### [CrypNet](https://github.com/RoshanArun/Emto-Web)
+Front End Web Development Utilizing HTML/Javascript/CSS
 _____
 ## Certifications
 
-- Responsive Web Design : Certified by FreeCodeCamp
-- Java Algorithms and Data Structures : Certified by FreeCodeCamp
+- Responsive Web Design : Certified by FreeCodeCamp (https://www.freecodecamp.org/certification/RoshanArun/responsive-web-design)
+- Java Algorithms and Data Structures : Certified by FreeCodeCamp (https://www.freecodecamp.org/certification/RoshanArun/javascript-algorithms-and-data-structures)
 
 ______
 
