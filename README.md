@@ -16,28 +16,32 @@ I'm learning how to use a variety of libraries and frameworks to maximize the po
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun-231a131b5/)
 [![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/roshan-arun) 
 
-**Languages and Tools:**  
-
+## Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-______
+
 ## Projects
 
-### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
-Game of Sudoku Developed in C
+### Sudoku
+Game of Sudoku developed in C 
+[Link](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
 
-### [Connect4](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c)
-Game of Connect4 Developed in C
+### Connect4
+Connect4 developed in C 
+[Link](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c)
 
-### [Checkers](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers)
-Checkers Developed in Java with a Full GUI
+### Checkers 
+Checkers developed in Java with a full GUI. 
+[Link](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers)
 
-### [CrypNet](https://github.com/RoshanArun/CrypNet-WebApp)
-Front End Web Development Utilizing React/CSS
+### CrypNet
+Front end web development utilizing React/CSS
+[Link](https://github.com/RoshanArun/CrypNet-WebApp)
 
-### [CrypNet](https://github.com/RoshanArun/Emto-Web)
-Front End Web Development Utilizing HTML/Javascript/CSS
+### Emto 
+Front end web development utilizing HTML/Javascript/CSS
+[Link](https://github.com/RoshanArun/Emto-Web)
 _____
 ## Certifications
 
