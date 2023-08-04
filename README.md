@@ -24,29 +24,24 @@ I'm learning how to use a variety of libraries and frameworks to maximize the po
 ## Projects
 
 ### Sudoku
-Game of Sudoku developed in C 
-[Link](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
+Game of [Sudoku] developed in C (https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
 
 ### Connect4
-Connect4 developed in C 
-[Link](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c)
+Connect4 developed in C [Link](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c)
 
 ### Checkers 
-Checkers developed in Java with a full GUI. 
-[Link](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers)
+Checkers developed in Java with a full GUI. [Link](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers)
 
 ### CrypNet
-Front end web development utilizing React/CSS
-[Link](https://github.com/RoshanArun/CrypNet-WebApp)
+Front end web development utilizing React/CSS [Link](https://github.com/RoshanArun/CrypNet-WebApp)
 
 ### Emto 
-Front end web development utilizing HTML/Javascript/CSS
-[Link](https://github.com/RoshanArun/Emto-Web)
+Front end web development utilizing HTML/Javascript/CSS [Link](https://github.com/RoshanArun/Emto-Web)
 _____
 ## Certifications
 
-- Responsive Web Design : Certified by FreeCodeCamp (https://www.freecodecamp.org/certification/RoshanArun/responsive-web-design)
-- Java Algorithms and Data Structures : Certified by FreeCodeCamp (https://www.freecodecamp.org/certification/RoshanArun/javascript-algorithms-and-data-structures)
+- [Responsive Web Design] : Certified by FreeCodeCamp (https://www.freecodecamp.org/certification/RoshanArun/responsive-web-design)
+- [Java Algorithms and Data] Structures : Certified by FreeCodeCamp (https://www.freecodecamp.org/certification/RoshanArun/javascript-algorithms-and-data-structures)
 
 ______
 
