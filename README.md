@@ -10,8 +10,7 @@ I'm currently working as an Intern Software Developer with Emto. My current proj
 ## Languages & Tools
 I am proficient in a variety of languages and software frameworks that allow me to build high-performance websites and applications. I have experience in the following areas:
 
-![Java](https://img.shields.io/badge/-Java-135ABC?style=style=flat&logo=java) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript) ![C](https://img.shields.io/badge/-C-00599C?style=style=flat&logo=c) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass)  ![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react)
-
+![Java](https://img.shields.io/badge/-Java-135ABC?style=style=flat&logo=java) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript) ![C](https://img.shields.io/badge/-C-00599C?style=style=flat&logo=c) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass)  ![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react)![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=style=flat&logo=jquery) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=style=flat&logo=bootstrap) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=style=flat&logo=redux)
 ## Projects 
 
 ### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
