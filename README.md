@@ -5,43 +5,39 @@ Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a st
 
 ## 🔭 I’m currently working on
 
-I'm currently working on a full-stack project incorporating machine learning algorithms with a React + Node + Express web platform. I'm also experimenting with building mobile applications that involve sensors and IoT devices. 
-
-## 🌱 I’m currently learning
-
-I'm learning how to use a variety of libraries and frameworks to maximize the potential of data analysis and web development projects, including React, Node.js, Express, Redux, and MongoDB. 
-
-## 🤔 How to reach me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun-231a131b5/)
-[![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/roshan-arun) 
+I'm currently working as an Intern Software Developer with Emto. My current project is to develop web pages with the purpose of  improved accessibility and scalability. I'm also experimenting with building mobile applications, and have  started a runthrough of LeetCode Interview Questions in order to expand my knowledge and critical thinking abilities. 
 
 ## Languages & Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+I am proficient in a variety of languages and software frameworks that allow me to build high-performance websites and applications. I have experience in the following areas:
 
-## Projects
+![Java](https://img.shields.io/badge/-Java-135ABC?style=style=flat&logo=java) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript) ![C](https://img.shields.io/badge/-C-00599C?style=style=flat&logo=c) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass)  ![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react)
 
-### Sudoku
-Game of [Sudoku] developed in C (https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
+## Projects 
 
-### Connect4
-Connect4 developed in C [Link](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c)
+### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
+Sudoku is a popular single-player game implemented in C where the objective is to fill a 9x9 grid with the numbers 1 to 9. Every row must contain one of each number, and the same rule applies to columns and 3x3 sub-regions of the 9x9 grid. The challenge is to use logic and strategic problem-solving skills to fill all the empty cells, one by one, in order to solve the puzzle and win the game. 
 
-### Checkers 
-Checkers developed in Java with a full GUI. [Link](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers)
+### [Connect4](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c) 
+This program is a two-player game implemented in C where the two players take alternate turns to put markers on the board, either an "O" or an "X". The aim of the game is to be the first to connect four of your own markers in a row horizontally, vertically or diagonally.
 
-### CrypNet
-Front end web development utilizing React/CSS [Link](https://github.com/RoshanArun/CrypNet-WebApp)
+### [Checkers](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers) 
+A checkers game programmed in Java with a full GUI that supports Single Player and Multi-Player. Implemented in C where the players take alternate turns to move pieces around a board made up of 64 squares. The pieces are colored red and black and the aim of the game is to capture all of the opponent's pieces. Players can move their pieces to an adjacent unoccupied square or by jumping over the opponent's pieces and landing in an empty square. The player who captures all of the opponent's pieces wins the game.
 
-### Emto 
-Front end web development utilizing HTML/Javascript/CSS [Link](https://github.com/RoshanArun/Emto-Web)
+### [CrypNetWebApp](https://github.com/RoshanArun/CrypNet-WebApp) 
+A front-end web application developed using React, CSS, and HTML. 
+
+### [EmtoWebApp](https://github.com/RoshanArun/Emto-Web)
+A front-end web application developed using HTML, Javascript, and CSS.
+
 _____
 ## Certifications
 
-- [Responsive Web Design] : Certified by FreeCodeCamp (https://www.freecodecamp.org/certification/RoshanArun/responsive-web-design)
-- [Java Algorithms and Data] Structures : Certified by FreeCodeCamp (https://www.freecodecamp.org/certification/RoshanArun/javascript-algorithms-and-data-structures)
+- [Resposive Web Design Certification](https://www.freecodecamp.org/certification/RoshanArun/responsive-web-design) : Certified by FreeCodeCamp
+- [Java Algorithms and Data Structures](https://www.freecodecamp.org/certification/RoshanArun/javascript-algorithms-and-data-structures) : Certified by FreeCodeCamp 
 
+## How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun-231a131b5/)
+[![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/roshan-arun) 
 ______
 
