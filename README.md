@@ -23,7 +23,7 @@ This program is a two-player game implemented in C where the two players take al
 This program is a singleplayer mathematical puzzle implemented in C where the two players take turns to fill a board of four by four squares with fifteen tiles numbered from 1 to 15. The aim of the game is to arrange the tiles by sliding them around the board to match the final-state configuration in the least number of moves.
 
 ### [Checkers](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers) 
-A checkers game programmed in Java with a full GUI that supports Single Player and Multi-Player. Implemented in C where the players take alternate turns to move pieces around a board made up of 64 squares. The pieces are colored red and black and the aim of the game is to capture all of the opponent's pieces. Players can move their pieces to an adjacent unoccupied square or by jumping over the opponent's pieces and landing in an empty square. The player who captures all of the opponent's pieces wins the game.
+A checkers game programmed in Java with a full GUI that supports Single Player and Multi-Player. Implemented in Java where the players take alternate turns to move pieces around a board made up of 64 squares. The pieces are colored red and black and the aim of the game is to capture all of the opponent's pieces. Players can move their pieces to an adjacent unoccupied square or by jumping over the opponent's pieces and landing in an empty square. The player who captures all of the opponent's pieces wins the game.
 
 ### [CrypNetWebApp](https://github.com/RoshanArun/CrypNet-WebApp) 
 A front-end web application developed using React, CSS, and HTML. 
