@@ -14,10 +14,13 @@ I am proficient in a variety of languages and software frameworks that allow me 
 ## Projects 
 
 ### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
-Sudoku is a popular single-player game implemented in C where the objective is to fill a 9x9 grid with the numbers 1 to 9. Every row must contain one of each number, and the same rule applies to columns and 3x3 sub-regions of the 9x9 grid. The challenge is to use logic and strategic problem-solving skills to fill all the empty cells, one by one, in order to solve the puzzle and win the game. 
+Sudoku is a popular single-player game implemented in C where the objective is to fill a 9x9 grid with the numbers 1 to 9. Every row must contain one of each number, and the same rule applies to columns and 3x3 sub-regions of the 9x9 grid. The challenge is to use logic and strategic problem-solving skills to fill all the empty cells, one by one, in order to solve the puzzle and win the game. Has multiple difficulty levels with 2000+ board permuations. 
 
 ### [Connect4](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c) 
 This program is a two-player game implemented in C where the two players take alternate turns to put markers on the board, either an "O" or an "X". The aim of the game is to be the first to connect four of your own markers in a row horizontally, vertically or diagonally.
+
+### [Fifteen](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Fifteen.c) 
+This program is a singleplayer mathematical puzzle implemented in C where the two players take turns to fill a board of four by four squares with fifteen tiles numbered from 1 to 15. The aim of the game is to arrange the tiles by sliding them around the board to match the final-state configuration in the least number of moves.
 
 ### [Checkers](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers) 
 A checkers game programmed in Java with a full GUI that supports Single Player and Multi-Player. Implemented in C where the players take alternate turns to move pieces around a board made up of 64 squares. The pieces are colored red and black and the aim of the game is to capture all of the opponent's pieces. Players can move their pieces to an adjacent unoccupied square or by jumping over the opponent's pieces and landing in an empty square. The player who captures all of the opponent's pieces wins the game.
