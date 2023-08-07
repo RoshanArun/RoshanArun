@@ -29,7 +29,7 @@ This program is a singleplayer mathematical puzzle implemented in C. The aim of 
 A front-end web application developed using React, CSS, and HTML. 
 
 ### [EmtoWebApp](https://github.com/RoshanArun/Emto-Web)
-A front-end web application developed using HTML, Javascript, and CSS.
+A front-end web application developed using HTML, Javascript, and CSS. (Concurrent Project: Working on serverside HTTP push and pull requests)
 
 _____
 ## Certifications
