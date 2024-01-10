@@ -5,7 +5,7 @@ Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a st
 
 ## 2024 Internship
 
-This summer I have accepted a Software Engineering Internship at Garmin! I will be workingn on software with their aeronautical team. I am excited to grow and learn with Garmin!
+This summer, I am pleased to announce that I have accepted a Software Engineering Internship position at Garmin. I am eager to contribute to the company's aeronautical team and look forward to embarking on a journey of personal and professional growth while contributing to Garmin's success.
 
 ## 🔭 I’m currently working on
 
