@@ -3,9 +3,9 @@
 
 Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a strong advocate of open source, using cutting-edge tools, and learning through tinkering. I specialize in front end development, and am proficient in HTML, CSS, JavaScript, and a variety of frameworks and libraries such as React and Jquery.
 
-## 🔭 2024 Internship
+## 2024 Internship
 
-This summer I have accepted a Software Engineering Internship at Garmin!
+This summer I have accepted a Software Engineering Internship at Garmin! I will be workingn on software with their aeronautical team. I am excited to grow and learn with Garmin!
 
 ## 🔭 I’m currently working on
 
