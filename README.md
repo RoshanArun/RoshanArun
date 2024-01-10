@@ -3,6 +3,10 @@
 
 Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a strong advocate of open source, using cutting-edge tools, and learning through tinkering. I specialize in front end development, and am proficient in HTML, CSS, JavaScript, and a variety of frameworks and libraries such as React and Jquery.
 
+## 🔭 2024 Internship
+
+This summer I have accepted a Software Engineering Internship at Garmin!
+
 ## 🔭 I’m currently working on
 
 I'm currently employed as an Intern Software Developer at Emto. My current project is to develop web pages with the purpose of improved accessibility and scalability. I'm also experimenting with building mobile applications, and have started a runthrough of LeetCode Interview Questions in order to expand my knowledge and critical thinking abilities. 
