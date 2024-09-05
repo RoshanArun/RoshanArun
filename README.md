@@ -1,7 +1,8 @@
 ## Hi there, I'm Roshan Arun 👋  
 ----
 
-Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a strong advocate of open source, using cutting-edge tools, and learning through tinkering. I specialize in front end development, and am proficient in HTML, CSS, JavaScript, and a variety of frameworks and libraries such as React and Jquery.
+Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a strong advocate of open source, using cutting-edge tools, and learning through tinkering. I specialize in front-end development, iOS mobile development, and C++ development. I’m proficient in Java, Swift, C++, HTML, CSS, JavaScript, and a variety of frameworks and libraries such as React and jQuery.
+
 
 ## 2024 Internship
 
@@ -14,7 +15,7 @@ I am currently working as a Software Engineering Intern at Garmin with a primary
 ## Languages & Tools
 I am proficient in a variety of languages and software frameworks that allow me to build high-performance websites and applications. I have experience in the following areas:
 
-![Java](https://img.shields.io/badge/-Java-135ABC?style=style=flat&logo=java) ![C](https://img.shields.io/badge/-C-00599C?style=style=flat&logo=c) ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=style=flat&logo=typescript) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react)![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass)  ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=style=flat&logo=jQuery) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=style=flat&logo=redux)
+![Java](https://img.shields.io/badge/-Java-135ABC?style=style=flat&logo=java) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![C](https://img.shields.io/badge/-C-00599C?style=style=flat&logo=c) ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=style=flat&logo=typescript) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react)![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass)  ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=style=flat&logo=jQuery) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=style=flat&logo=redux)
 ## Projects 
 
 ### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
