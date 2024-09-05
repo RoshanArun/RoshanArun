@@ -5,11 +5,11 @@ Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a st
 
 ## 2024 Internship
 
-This summer, I am pleased to announce that I have accepted a Software Engineering Internship position at Garmin. I am eager to contribute to the company's aeronautical team and look forward to embarking on a journey of personal and professional growth while contributing to Garmin's success.
+This summer, I am excited to announce that I have accepted a Summer 2024 Software Engineering Internship position at Garmin. In addition, I have also been offered a full-time position and a Fall internship. I am eager to contribute to the company's aeronautical team and look forward to embarking on a journey of personal and professional growth while supporting Garmin's continued success.
 
 ## 🔭 I’m currently working on
 
-I'm currently employed as an Intern Software Developer at Emto. My current project is to develop web pages with the purpose of improved accessibility and scalability. I'm also experimenting with building mobile applications, and have started a runthrough of LeetCode Interview Questions in order to expand my knowledge and critical thinking abilities. 
+I am currently working as a Software Engineering Intern at Garmin with a primary focus on C++ and Swift. I have successfully restructured Garmin's mobile notification system, improving its efficiency and reliability.
 
 ## Languages & Tools
 I am proficient in a variety of languages and software frameworks that allow me to build high-performance websites and applications. I have experience in the following areas:
