@@ -6,11 +6,11 @@ Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a st
 
 ## 2024 Internship
 
-This summer, I am excited to announce that I have accepted a Summer 2024 Software Engineering Internship position at Garmin. In addition, I have also been offered a full-time position and a Fall internship. I am eager to contribute to the company's aeronautical team and look forward to embarking on a journey of personal and professional growth while supporting Garmin's continued success.
+I’m thrilled to announce that I successfully completed my Summer 2024 Software Engineering Internship at Garmin. Following this, I’ve accepted a Fall 2024 internship and have been offered a full-time position with the company. I’m excited to continue contributing to Garmin’s aeronautical team and look forward to furthering both my personal and professional growth as I help drive Garmin’s ongoing success.
 
 ## 🔭 I’m currently working on
 
-I am currently working as a Software Engineering Intern at Garmin with a primary focus on C++ and Swift. I have successfully restructured Garmin's mobile notification system, improving its efficiency and reliability.
+I am currently working as a Software Engineering Intern at Garmin, focusing primarily on C++ and Swift. I successfully restructured Garmin's mobile notification system, significantly enhancing its efficiency and reliability. Additionally, I made hundreds of optimizations to Garmin's Mobile Tread application, leveraging my expertise in Djinni, Swift, and C++ to improve performance and functionality.
 
 ## Languages & Tools
 I am proficient in a variety of languages and software frameworks that allow me to build high-performance websites and applications. I have experience in the following areas:
