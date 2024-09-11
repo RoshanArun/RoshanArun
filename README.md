@@ -41,28 +41,22 @@ I am proficient in a variety of programming languages and software frameworks th
 Here are a few projects that showcase my skills:
 
 ### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
-A C-based single-player game where the goal is to fill a 9x9 grid with numbers 1 to 9, ensuring no repetitions in rows, columns, or 3x3 sub-regions. 
-- **Languages**: C 
+A C-based single-player game where the goal is to fill a 9x9 grid with numbers 1 to 9, ensuring no repetitions in rows, columns, or 3x3 sub-regions. Includes multiple difficulty levels and 2000+ board permutations.
 
 ### [Checkers](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers) 
-A Java-based checkers game with a full GUI, supporting both single-player and multiplayer modes.
-- **Languages**: Java, GUI
+A Java checkers game with a full GUI, supporting both single-player and multiplayer modes. The game challenges players to capture all opposing pieces, complete with smooth gameplay and simple AI for single-player accessibility.
 
 ### [Connect4](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c) 
-A two-player game implemented in C where players aim to connect four in a row on a grid.
-- **Languages**: C 
+A C-based two-player game where players take turns placing markers on a grid, aiming to connect four in a row either horizontally, vertically, or diagonally.
 
 ### [Fifteen](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Fifteen.c) 
-A C-based sliding puzzle game where the goal is to arrange tiles in the least number of moves.
-- **Languages**: C 
+A sliding puzzle game implemented in C, where the objective is to arrange tiles in a specific order with the least number of moves possible.
 
 ### [CrypNetWebApp](https://github.com/RoshanArun/CrypNet-WebApp) 
-A responsive front-end web application built using modern web technologies.
-- **Languages**: React, CSS, HTML
+A front-end web application built using React, CSS, and HTML, showcasing my skills in responsive web design.
 
 ### [EmtoWebApp](https://github.com/RoshanArun/Emto-Web)
-A front-end web application built using JavaScript, HTML, and CSS, currently integrating server-side HTTP push and pull requests.
-- **Languages**: HTML, JavaScript, CSS
+A front-end web app developed using HTML, JavaScript, and CSS. Currently working on integrating server-side HTTP push and pull requests.
 
 _____
 ## Certifications
