@@ -1,8 +1,7 @@
 ## Hi there, I'm Roshan Arun 👋  
 ----
 
-I'm a Software Engineering student at ASU with a passion for open source, cutting-edge tools, and hands-on learning. My expertise spans front-end development, iOS mobile development, and C++ programming. I’m proficient in Swift, C++, HTML, CSS, JavaScript, and frameworks like React, jQuery, and Djinni.
-
+I'm a Software Engineering student at ASU with a deep passion for open-source projects, building innovative solutions, and always learning through hands-on experience. With expertise spanning front-end development, iOS mobile development, and C++ programming, I’m constantly exploring new technologies and striving to make impactful contributions to the software industry.
 
 
 ## 2024 Internship 🚀
@@ -20,41 +19,67 @@ As a Software Engineering Intern at Garmin, I focus primarily on C++ and Swift d
 
 
 ## Languages & Tools
-I am proficient in a variety of languages and software frameworks that allow me to build high-performance websites and applications. I have experience in the following areas:
+I am proficient in a variety of programming languages and software frameworks that enable me to build high-performance websites and applications. My experience spans the following areas:
 
-![Java](https://img.shields.io/badge/-Java-135ABC?style=style=flat&logo=java) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=flat&logo=swift) ![C](https://img.shields.io/badge/-C-00599C?style=style=flat&logo=c) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react)![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass)  ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=style=flat&logo=jQuery) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=style=flat&logo=redux)
+### Programming Languages:
+![Java](https://img.shields.io/badge/-Java-135ABC?style=style=flat&logo=java) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) 
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift) 
+![C](https://img.shields.io/badge/-C-00599C?style=style=flat&logo=c) 
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript)
 
+### Frameworks & Libraries:
+![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react) 
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=flat&logo=swift) 
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=style=flat&logo=redux) 
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass) 
+![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=style=flat&logo=jQuery)
+
+### Tools & Platforms:
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=style=flat&logo=git) 
 
 ## Projects 💼
 Here are a few projects that showcase my skills:
 
 ### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
-A C-based single-player game where the goal is to fill a 9x9 grid with numbers 1 to 9, ensuring no repetitions in rows, columns, or 3x3 sub-regions. Includes multiple difficulty levels and 2000+ board permutations.
+A C-based single-player game where the goal is to fill a 9x9 grid with numbers 1 to 9, ensuring no repetitions in rows, columns, or 3x3 sub-regions. 
+- **Languages**: C 
 
 ### [Checkers](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers) 
-A Java checkers game with a full GUI, supporting both single-player and multiplayer modes. The game challenges players to capture all opposing pieces, complete with smooth gameplay and simple AI for single-player accessibility.
+A Java-based checkers game with a full GUI, supporting both single-player and multiplayer modes.
+- **Languages**: Java, GUI 
 
 ### [Connect4](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c) 
-A C-based two-player game where players take turns placing markers on a grid, aiming to connect four in a row either horizontally, vertically, or diagonally.
+A two-player game implemented in C where players aim to connect four in a row on a grid.
+- **Languages**: C 
 
 ### [Fifteen](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Fifteen.c) 
-A sliding puzzle game implemented in C, where the objective is to arrange tiles in a specific order with the least number of moves possible.
+A C-based sliding puzzle game where the goal is to arrange tiles in the least number of moves.
+- **Languages**: C 
 
 ### [CrypNetWebApp](https://github.com/RoshanArun/CrypNet-WebApp) 
-A front-end web application built using React, CSS, and HTML, showcasing my skills in responsive web design.
+A responsive front-end web application built using modern web technologies.
+- **Languages**: React, CSS, HTML
 
 ### [EmtoWebApp](https://github.com/RoshanArun/Emto-Web)
-A front-end web app developed using HTML, JavaScript, and CSS. Currently working on integrating server-side HTTP push and pull requests.
+A front-end web application built using JavaScript, HTML, and CSS, currently integrating server-side HTTP push and pull requests.
+- **Languages**: HTML, JavaScript, CSS
 
 _____
 ## Certifications
 
-- [Resposive Web Design Certification](https://www.freecodecamp.org/certification/RoshanArun/responsive-web-design) : Certified by FreeCodeCamp
-- [Java Algorithms and Data Structures](https://www.freecodecamp.org/certification/RoshanArun/javascript-algorithms-and-data-structures) : Certified by FreeCodeCamp 
+- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/RoshanArun/responsive-web-design)  
+  Certified by FreeCodeCamp: Covered modern web design principles, CSS flexbox, CSS grid, and accessibility best practices.
 
-## How to reach me
+- [Java Algorithms and Data Structures](https://www.freecodecamp.org/certification/RoshanArun/javascript-algorithms-and-data-structures)  
+  Certified by FreeCodeCamp: Focused on mastering essential algorithms, data structures, and optimization techniques using Java.
+
+## How to Reach Me
+
+Feel free to connect with me to discuss new opportunities, collaborations, or any exciting projects in software engineering and development.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun-231a131b5/)
-[![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/roshan-arun) 
+[![GitHub](https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/roshan-arun)
 ______
 
