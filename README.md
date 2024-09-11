@@ -34,6 +34,7 @@ I am proficient in a variety of programming languages and software frameworks th
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=style=flat&logo=redux) 
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass) 
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=style=flat&logo=jQuery)
+![Djinni](https://img.shields.io/badge/-Djinni-4B0082?style=style=flat&logo=code)
 
 ### Tools & Platforms:
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) 
