@@ -28,17 +28,14 @@ I am proficient in a variety of programming languages and software frameworks th
 ![C](https://img.shields.io/badge/-C-00599C?style=style=flat&logo=c) 
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript)
 
-### Frameworks & Libraries:
+### Frameworks/Libraries/Tools:
 ![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react) 
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=flat&logo=swift) 
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=style=flat&logo=redux) 
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass) 
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=style=flat&logo=jQuery)
 ![Djinni](https://img.shields.io/badge/-Djinni-4B0082?style=style=flat&logo=code)
-
-### Tools & Platforms:
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=style=flat&logo=git) 
 
 ## Projects 💼
 Here are a few projects that showcase my skills:
@@ -49,7 +46,7 @@ A C-based single-player game where the goal is to fill a 9x9 grid with numbers 1
 
 ### [Checkers](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers) 
 A Java-based checkers game with a full GUI, supporting both single-player and multiplayer modes.
-- **Languages**: Java, GUI 
+- **Languages**: Java, GUI
 
 ### [Connect4](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c) 
 A two-player game implemented in C where players aim to connect four in a row on a grid.
