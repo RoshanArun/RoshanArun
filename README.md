@@ -6,7 +6,7 @@ Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a st
 
 ## 2024 Internship
 
-I’m thrilled to announce that I successfully completed my Summer 2024 Software Engineering Internship at Garmin. Following this, I’ve accepted a Fall 2024 internship and have been offered a full-time position with the company. I’m excited to continue contributing to Garmin’s aeronautical team and look forward to furthering both my personal and professional growth as I help drive Garmin’s ongoing success.
+I’m thrilled to announce that I successfully completed my Summer 2024 Software Engineering Internship at Garmin. Following this, I’ve accepted a Fall 2024 internship and have been offered a full-time position with the company. I’m excited to continue contributing to Garmin’s software development team and look forward to furthering both my personal and professional growth as I help drive Garmin’s ongoing success.
 
 ## 🔭 I’m currently working on
 
