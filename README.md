@@ -1,40 +1,50 @@
 ## Hi there, I'm Roshan Arun 👋  
 ----
 
-Hey! I'm Roshan Arun, a student at ASU studying Software Engineering. I’m a strong advocate of open source, using cutting-edge tools, and learning through tinkering. I specialize in front-end development, iOS mobile development, and C++ development. I’m proficient in Java, Swift, C++, HTML, CSS, JavaScript, and a variety of frameworks and libraries such as React and jQuery.
+I'm a Software Engineering student at ASU with a passion for open source, cutting-edge tools, and hands-on learning. My expertise spans front-end development, iOS mobile development, and C++ programming. I’m proficient in Swift, C++, HTML, CSS, JavaScript, and frameworks like React, jQuery, and Djinni.
 
 
-## 2024 Internship
 
-I’m thrilled to announce that I successfully completed my Summer 2024 Software Engineering Internship at Garmin. Following this, I’ve accepted a Fall 2024 internship and have been offered a full-time position with the company. I’m excited to continue contributing to Garmin’s software development team and look forward to furthering both my personal and professional growth as I help drive Garmin’s ongoing success.
+## 2024 Internship 🚀
 
-## 🔭 I’m currently working on
+I recently completed a successful Summer 2024 Software Engineering Internship at Garmin, where I restructured the mobile notification system and optimized their Tread application. Following this, I’ve accepted a Fall 2024 internship and have been offered a full-time Software Development position with the company. I’m excited to continue contributing to Garmin’s software development team.
 
-I am currently working as a Software Engineering Intern at Garmin, focusing primarily on C++ and Swift. I successfully restructured Garmin's mobile notification system, significantly enhancing its efficiency and reliability. Additionally, I made hundreds of optimizations to Garmin's Mobile Tread application, leveraging my expertise in Djinni, Swift, and C++ to improve performance and functionality.
+
+## 🔭 I’m currently working on 🔭
+
+As a Software Engineering Intern at Garmin, I focus primarily on C++ and Swift development. Highlights of my work include:
+
+• Streamlining Garmin's Notification System: Redesigned and optimized the mobile notification process for improved efficiency and reliability across platforms.
+• Tread App Optimizations: Resolved over 100 bugs and implemented performance optimizations in Garmin's Tread mobile app, improving functionality across various devices.
+• Cross-Platform Development: Leveraged Djinni to bridge C++ and Swift codebases, enabling seamless code reuse and development across iOS and other platforms.
+
 
 ## Languages & Tools
 I am proficient in a variety of languages and software frameworks that allow me to build high-performance websites and applications. I have experience in the following areas:
 
 ![Java](https://img.shields.io/badge/-Java-135ABC?style=style=flat&logo=java) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![C](https://img.shields.io/badge/-C-00599C?style=style=flat&logo=c) ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=style=flat&logo=typescript) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react)![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass)  ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=style=flat&logo=jQuery) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=style=flat&logo=redux)
-## Projects 
+
+
+## Projects 💼
+Here are a few projects that showcase my skills:
 
 ### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
-This program is a single-player game implemented in C where the objective is to fill a 9x9 grid with the numbers 1 to 9. Every row must contain one of each number, and the same rule applies to columns and 3x3 sub-regions of the 9x9 grid. The challenge is to use logic and strategic problem-solving skills to fill all the empty cells, one by one, in order to solve the puzzle and win the game. Has multiple difficulty levels with 2000+ board permuations. 
+A C-based single-player game where the goal is to fill a 9x9 grid with numbers 1 to 9, ensuring no repetitions in rows, columns, or 3x3 sub-regions. Includes multiple difficulty levels and 2000+ board permutations.
 
 ### [Checkers](https://github.com/RoshanArun/CSE-Schoolwork/tree/main/ser216/checkers) 
-A checkers game programmed in Java with a full GUI that supports Single Player and Multi-Player. The players take alternate turns to move pieces around a board made up of 64 squares. The pieces are colored red and black and the aim of the game is to capture all of the opponent's pieces. Players can move their pieces to an adjacent unoccupied square or by jumping over the opponent's pieces and landing in an empty square. The player who captures all of the opponent's pieces wins the game.
+A Java checkers game with a full GUI, supporting both single-player and multiplayer modes. The game challenges players to capture all opposing pieces, complete with smooth gameplay and simple AI for single-player accessibility.
 
 ### [Connect4](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Connect4.c) 
-This program is a two-player game implemented in C where the two players take alternate turns to put markers on the board, either an "O" or an "X". The aim of the game is to be the first to connect four of your own markers in a row horizontally, vertically or diagonally.
+A C-based two-player game where players take turns placing markers on a grid, aiming to connect four in a row either horizontally, vertically, or diagonally.
 
 ### [Fifteen](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Fifteen.c) 
-This program is a singleplayer mathematical puzzle implemented in C. The aim of the game is to arrange the tiles by sliding them around the board to match the final-state configuration in the least number of moves. The board is completely randomized. 
+A sliding puzzle game implemented in C, where the objective is to arrange tiles in a specific order with the least number of moves possible.
 
 ### [CrypNetWebApp](https://github.com/RoshanArun/CrypNet-WebApp) 
-A front-end web application developed using React, CSS, and HTML. 
+A front-end web application built using React, CSS, and HTML, showcasing my skills in responsive web design.
 
 ### [EmtoWebApp](https://github.com/RoshanArun/Emto-Web)
-A front-end web application developed using HTML, Javascript, and CSS. (Concurrent Project: Working on serverside HTTP push and pull requests)
+A front-end web app developed using HTML, JavaScript, and CSS. Currently working on integrating server-side HTTP push and pull requests.
 
 _____
 ## Certifications
