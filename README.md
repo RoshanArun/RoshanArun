@@ -14,9 +14,9 @@ I recently completed a successful Summer 2024 Software Engineering Internship at
 
 As a Software Engineering Intern at Garmin, I focus primarily on C++ and Swift development. Highlights of my work include:
 
-• Streamlining Garmin's Notification System: Redesigned and optimized the mobile notification process for improved efficiency and reliability across platforms.
-• Tread App Optimizations: Resolved over 100 bugs and implemented performance optimizations in Garmin's Tread mobile app, improving functionality across various devices.
-• Cross-Platform Development: Leveraged Djinni to bridge C++ and Swift codebases, enabling seamless code reuse and development across iOS and other platforms.
+- Streamlining Garmin's Notification System: Redesigned and optimized the mobile notification process for improved efficiency and reliability across platforms.
+- Tread App Optimizations: Resolved over 100 bugs and implemented performance optimizations in Garmin's Tread mobile app, improving functionality across various devices.
+- Cross-Platform Development: Leveraged Djinni to bridge C++ and Swift codebases, enabling seamless code reuse and development across iOS and other platforms.
 
 
 ## Languages & Tools
