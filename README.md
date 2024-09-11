@@ -29,16 +29,17 @@ I am proficient in a variety of programming languages and software frameworks th
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript)
 
 ### Frameworks/Libraries/Tools:
-![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react) 
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=flat&logo=swift) 
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) 
+![React](https://img.shields.io/badge/-React-20232a?style=style=flat&logo=react) 
+![Djinni](https://img.shields.io/badge/-Djinni-4B0082?style=style=flat&logo=code)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=style=flat&logo=redux) 
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=style=flat&logo=sass) 
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=style=flat&logo=jQuery)
-![Djinni](https://img.shields.io/badge/-Djinni-4B0082?style=style=flat&logo=code)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=style=flat&logo=css3) 
+
 
 ## Projects 💼
-Here are a few projects that showcase my skills:
 
 ### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
 A C-based single-player game where the goal is to fill a 9x9 grid with numbers 1 to 9, ensuring no repetitions in rows, columns, or 3x3 sub-regions. Includes multiple difficulty levels and 2000+ board permutations.
