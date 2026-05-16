@@ -1,5 +1,9 @@
 ## Hi there, I'm Roshan Arun 👋
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0EA5E9?style=flat-square&logo=githubpages&logoColor=white)](https://roshanarun.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun-231a131b5/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/RoshanArun)
+
 I'm a Software Engineer with experience in iOS development, front-end web development, C++, Swift, and cross-platform mobile architecture. I enjoy building clean, user-focused applications, improving existing systems, and learning through hands-on development.
 
 My work has included mobile app development at Garmin, responsive web applications, UI/UX improvements, API integration, and performance-focused debugging. I’m especially interested in building polished software that is reliable, maintainable, and easy to use.
@@ -153,5 +157,6 @@ Dean’s List: Fall 2021, Spring 2022, Spring 2024
 
 I'm always open to connecting about software engineering, web development, mobile development, and new opportunities.
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0EA5E9?style=flat-square&logo=githubpages&logoColor=white)](https://roshanarun.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/roshan-arun-231a131b5/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/RoshanArun)
