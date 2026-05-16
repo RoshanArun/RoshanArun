@@ -41,6 +41,9 @@ I am proficient in a variety of programming languages and software frameworks th
 
 ## Projects 💼
 
+### [FoodTrack](https://github.com/RoshanArun/FoodTruck-Financial-Platform)
+Full Website developed using React, Tailwind CSS, Next.js, Typescript, AWS
+
 ### [Sudoku](https://github.com/RoshanArun/C-Programming/blob/main/Chapter%204/Sudoku.c)
 A C-based single-player game where the goal is to fill a 9x9 grid with numbers 1 to 9, ensuring no repetitions in rows, columns, or 3x3 sub-regions. Includes multiple difficulty levels and 2000+ board permutations.
 
